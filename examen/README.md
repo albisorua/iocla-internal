@@ -1,4 +1,4 @@
-## Reguli pentru echipe de teme (un exemplu) 
+## Reguli pentru echipa de teme (un exemplu) 
 
 Reguli legate de modul de folosire al repository-ului intern.
 
